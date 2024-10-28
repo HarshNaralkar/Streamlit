@@ -328,16 +328,16 @@ def page_4():
     st.code(spinnercode,language="python")
     st.write("---")
 
-    st.write("- Importing Image")
-    img =(r'C:\Users\admin\Desktop\First Year Work\chat box\images\doremon2.png')
-    st.image(img,width=100)
-    st.write(":orange[Code👇]")
+    # st.write("- Importing Image")
+    # img =(r'C:\Users\admin\Desktop\First Year Work\chat box\images\doremon2.png')
+    # st.image(img,width=100)
+    # st.write(":orange[Code👇]")
 
-    imgcode = '''img =('example.png')'''
-    st.code(imgcode,language="python")
+    # imgcode = '''img =('example.png')'''
+    # st.code(imgcode,language="python")
 
 
-    st.write("---")
+    # st.write("---")
 
     st.write("- Audio")
 
