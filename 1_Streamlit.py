@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 import requests
-from streamlit_lottie import st_lottie
+# from streamlit_lottie import st_lottie
 import time
 
 st.markdown("# Streamlit Library")
