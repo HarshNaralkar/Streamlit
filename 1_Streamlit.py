@@ -10,7 +10,7 @@ if 'page' not in st.session_state:
 # Function to update the page number
 def set_page(page_number):
     st.session_state.page = page_number
-    st.experimental_rerun()
+    st.rerun()
 
 # Page functions
 def page_1():
